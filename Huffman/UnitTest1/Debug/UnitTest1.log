@@ -1,0 +1,8 @@
+﻿  unittest1.cpp
+c:\users\pankaj\source\repos\huffman\huffman\test.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pankaj\source\repos\huffman\huffman\test.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\pankaj\source\repos\huffman\huffman\test.h(186): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'float *'
+c:\users\pankaj\source\repos\huffman\unittest1\unittest1.cpp(25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pankaj\source\repos\huffman\unittest1\unittest1.cpp(26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\pankaj\source\repos\huffman\unittest1\unittest1.cpp(31): warning C4551: function call missing argument list
+  UnitTest1.vcxproj -> C:\Users\pankaj\source\repos\Huffman\Debug\UnitTest1.dll
